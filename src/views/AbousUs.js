@@ -35,7 +35,7 @@ class AboutUs extends React.Component {
                       />
                       <h5 className="title">SHREE DURGA JEWELLERS</h5>
                     </a>
-                    <p className="description">Jawhwar Market Camp 2, Bhilai Chhattosgarh</p>
+                    <p className="description">Jawhwar Market Camp 2, Bhilai Chhattisgarh</p>
                   </div>
                 </CardBody>
                 <CardFooter>
