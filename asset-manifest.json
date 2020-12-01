@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14c22966.chunk.css",
+    "main.js": "/static/js/main.66f7a5a5.chunk.js",
+    "main.js.map": "/static/js/main.66f7a5a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3a289f92.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3a289f92.js.map",
+    "static/css/2.bbefbc3e.chunk.css": "/static/css/2.bbefbc3e.chunk.css",
+    "static/js/2.3adb1abf.chunk.js": "/static/js/2.3adb1abf.chunk.js",
+    "static/js/2.3adb1abf.chunk.js.map": "/static/js/2.3adb1abf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.416e98dfeac7cb74eb97e4a6e6171c1f.js": "/precache-manifest.416e98dfeac7cb74eb97e4a6e6171c1f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bbefbc3e.chunk.css.map": "/static/css/2.bbefbc3e.chunk.css.map",
+    "static/css/main.14c22966.chunk.css.map": "/static/css/main.14c22966.chunk.css.map",
+    "static/js/2.3adb1abf.chunk.js.LICENSE.txt": "/static/js/2.3adb1abf.chunk.js.LICENSE.txt",
+    "static/media/damir-bosnjak.jpg": "/static/media/damir-bosnjak.a6f24e7d.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/mike.jpg": "/static/media/mike.aab414f7.jpg",
+    "static/media/paper-dashboard.scss?v=1.2.0": "/static/media/nucleo-icons.f32ed5ad.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a289f92.js",
+    "static/css/2.bbefbc3e.chunk.css",
+    "static/js/2.3adb1abf.chunk.js",
+    "static/css/main.14c22966.chunk.css",
+    "static/js/main.66f7a5a5.chunk.js"
+  ]
+}
